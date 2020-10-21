@@ -49,7 +49,7 @@ test:
 
 about:
   home: http://www.r-project.org
-  license: GPL (>= 2)
+  license: GPL-2.0-or-later
   summary: Random number generation for the truncated multivariate normal and Student t distribution.  Computes
     probabilities, quantiles and densities,  including one-dimensional and bivariate
     marginal densities. Computes first and second moments (i.e. mean and covariance
@@ -60,10 +60,3 @@ about:
 extra:
   recipe-maintainers:
     - conda-forge/r
-    - johanneskoester
-    - bgruening
-    - daler
-    - jdblischak
-    - cbrueffer
-    - dbast
-    - dpryan79
